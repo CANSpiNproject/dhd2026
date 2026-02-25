@@ -1,7 +1,7 @@
 # dhd2026
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![DOI](https://zenodo.org/badge/DOI/null.svg)](https://doi.org/null)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18777156.svg)](https://doi.org/10.5281/zenodo.18777156)
 
 This is a repository containing the data and code for our poster ["Kombinieren statt neu trainieren. Zur automatisierten Erkennung diegetischen räumlichen Vokabulars mit Hilfe existierender Annotationen und Classifier"](https://doi.org/10.5281/zenodo.18702911) addressing the recognition of diegetic spatial vocabulary presented at [DHd2026 in Vienna](https://dhd2026.digitalhumanities.de/).
 
