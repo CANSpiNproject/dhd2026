@@ -23,7 +23,7 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18777156
-repository-code: 'https://github.com/CANSpiNproject/dh2026'
+repository-code: 'https://github.com/CANSpiNproject/dhd2026'
 url: 'https://www.canspin.uni-rostock.de/en'
 abstract: >-
   This is a repository containing the data and code for our poster 
