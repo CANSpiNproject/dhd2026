@@ -22,7 +22,7 @@ authors:
     orcid: 'https://orcid.org/0000-0003-2852-065X'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.18777156
+    value: 10.5281/zenodo.18777155
 repository-code: 'https://github.com/CANSpiNproject/dhd2026'
 url: 'https://www.canspin.uni-rostock.de/en'
 abstract: >-
@@ -37,6 +37,6 @@ keywords:
   - Computational Literary Studies
   - DHd2026
 license: CC-BY-4.0
-commit: bc6fac9
-version: 1.0.0
+commit: a7e54925f0913abf6e82132a640eb5334f5762ab
+version: 1.0.1
 date-released: '2026-02-25'

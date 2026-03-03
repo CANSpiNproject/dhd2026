@@ -1,7 +1,7 @@
 # dhd2026
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-1.0.1-blue)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18777156.svg)](https://doi.org/10.5281/zenodo.18777156)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18777155.svg)](https://doi.org/10.5281/zenodo.18777155)
 
 This is a repository containing the data and code for our poster ["Kombinieren statt neu trainieren. Zur automatisierten Erkennung diegetischen räumlichen Vokabulars mit Hilfe existierender Annotationen und Classifier"](https://doi.org/10.5281/zenodo.18702911) addressing the recognition of diegetic spatial vocabulary presented at [DHd2026 in Vienna](https://dhd2026.digitalhumanities.de/).
 
@@ -50,7 +50,7 @@ For this case study we use one chapter each of the following german 19th and 20t
 
 The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC) and the [Complete Works of Uwe Johnson project (CWUJ)](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/). For legal reasons, the textual data from the 20th century can not be published. For Uwe Johnsons *Zwei Ansichten* we only provide the manually compiled evaluation statistics.
 
-| ID | Title | Author | Year | Token | Source |
+| ID | Title | Author | Year | Token (in CS1 Annotations) | Source |
 |----|-------|--------|------|-------|--------|
 | DEU19_001_2-3-5 | Weisse Sclaven oder die Leiden des Volkes | Willkomm, Ernst Adolf | 1845 | 6539 | ELTeC-deu |
 | DEU19_030_1-1-1 | Die verlorene Handschrift | Freytag, Gustav | 1864 | 7179 | ELTeC-deu |
