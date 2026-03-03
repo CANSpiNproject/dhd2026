@@ -50,12 +50,14 @@ For this case study we use one chapter each of the following german 19th and 20t
 
 The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC) and the [Complete Works of Uwe Johnson project (CWUJ)](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/). For legal reasons, the textual data from the 20th century can not be published. For Uwe Johnsons *Zwei Ansichten* we only provide the manually compiled evaluation statistics.
 
-| ID | Title | Author | Year | Token (in CS1 Annotations) | Source |
+| ID | Title | Author | Year | Token* | Source |
 |----|-------|--------|------|-------|--------|
 | DEU19_001_2-3-5 | Weisse Sclaven oder die Leiden des Volkes | Willkomm, Ernst Adolf | 1845 | 6539 | ELTeC-deu |
 | DEU19_030_1-1-1 | Die verlorene Handschrift | Freytag, Gustav | 1864 | 7179 | ELTeC-deu |
 | DEU19_058_14 | Lotti, die Uhrmacherin | Ebner-Eschenbach, Marie von | 1880 | 3959 | ELTeC-deu |
 | DEU20_021_1 | Zwei Ansichten | Johnson, Uwe | 1965 | 744 | CWUJ |
+
+**\*** ... Amount of Token in CS1 Annotation Files
 
 ## Annotations
 We use the [**LLPro** pipeline](https://aclanthology.org/2023.konvens-main.3) containing the **EvENT** classifier for creating event annotations. The data for **CS1** comes from manual annotations. The **EvENT** annotation guideline (v1) was published [by Evelyn Gius and Michael Vauth](https://doi.org/10.5281/zenodo.5078175). The **CANSpiN.CS1** annotation guideline (v1.1.0) is available [here](https://doi.org/10.5281/zenodo.10437030).
